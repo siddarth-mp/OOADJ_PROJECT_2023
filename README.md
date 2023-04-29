@@ -17,6 +17,6 @@ There's also a Analysis view for each of view cretaed which displays room availa
 We have used Java Swing AWT along with MySQL database and adhered to MVC , Singleton,Factory design ,Chain of Responsibility design patterns. In addition design principles like SRP,OCP have been followed. Overall the system offers customers/users to efficiently look into various hotels and view its details so that they can accommodate in one among them. Analysis component has been included as a part of requirement showing various departmental, room availability ,employee staff analysis, using which hotel managers can take necessary actions.
 For plotting of certain charts, we have used JFreeChart library, and plotted histogram,pie chart,bar plot for analysis view, we created a matrix view for room availability using Table grid cells.
 
-##Use case diagram : 
+## Use case diagram : 
 
-![alt text]([http://](https://ibb.co/3SRBy1C))
+![alt text](https://ibb.co/3SRBy1C)
