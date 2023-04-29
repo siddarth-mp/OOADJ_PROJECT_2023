@@ -28,6 +28,6 @@ For plotting of certain charts, we have used JFreeChart library, and plotted his
 
 
 ## State Diagram : 
-![st34e](https://user-images.githubusercontent.com/74816547/235312725-c34cb89a-9aad-4233-86a8-dd060c836531.png)
+![stre](https://user-images.githubusercontent.com/74816547/235312786-76b9d1fc-ade1-423b-8ba9-93f6e7a7b90b.png)
 
 
