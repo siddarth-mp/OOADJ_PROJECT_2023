@@ -18,5 +18,16 @@ We have used Java Swing AWT along with MySQL database and adhered to MVC , Singl
 For plotting of certain charts, we have used JFreeChart library, and plotted histogram,pie chart,bar plot for analysis view, we created a matrix view for room availability using Table grid cells.
 
 ## Use case diagram : 
+![st1](https://user-images.githubusercontent.com/74816547/235312532-2cd91154-a5ee-4798-9d9d-cc947313d61c.png)
 
-![alt text](https://ibb.co/3SRBy1C)
+## Class Diagran : 
+![st45](https://user-images.githubusercontent.com/74816547/235312606-388178b9-c811-4b8f-be3d-5f940b04131d.png)
+
+## Activity Diagram  :
+![st56](https://user-images.githubusercontent.com/74816547/235312675-ccf9d8a1-adff-46c5-9fd9-992ab6ad7034.png)
+
+
+## State Diagram : 
+![st34e](https://user-images.githubusercontent.com/74816547/235312725-c34cb89a-9aad-4233-86a8-dd060c836531.png)
+
+
